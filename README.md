@@ -1,1 +1,3 @@
-# computer_vision
+# Computer Vision
+
+Experiments and works related to computer vision
